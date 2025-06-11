@@ -20,7 +20,7 @@ A modern and responsive front-end clone of the official Apple landing page, buil
 - HTML5  
 - CSS3  
 - Git & GitHub  
-- GitHub Pages / Vercel (for deployment)
+- Vercel (for deployment)
 
 ---
 
@@ -51,7 +51,7 @@ To run this project locally:
 
 ### 🛠 Clone the repository
 'bash
-git clone https://github.com/codebyheera/apple-landing-page.git
+git clone https://github.com/codebyheera/Apple-Clone.git
 
  ➡️ Navigate into the project directory <br>
  cd apple-landing-page
