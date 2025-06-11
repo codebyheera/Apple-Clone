@@ -53,13 +53,13 @@ To run this project locally:
 'bash
 git clone https://github.com/codebyheera/apple-landing-page.git
 
- ➡️ Navigate into the project directory
+ ➡️ Navigate into the project directory <br>
  cd apple-landing-page
-
-🌐 Open the project in your browser
+<br>
+🌐 Open the project in your browser <br>
 Simply open the index.html file in your browser.
 
-👤 Author — Muhammad Subhan Naeem
-Built with ❤️ by Heera
+👤 Author — Muhammad Subhan Naeem <br>
+Built with ❤️ by Heera <br>
 🔗 github.com/codebyheera
 
