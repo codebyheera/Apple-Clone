@@ -1,4 +1,4 @@
-#  Apple Landing Page Clone
+# 📱 Apple Landing Page Clone
 
 A modern and responsive front-end clone of the official Apple landing page, built using **HTML5** and **CSS3**. This is my second front-end project, created to further enhance my skills in layout design, semantic markup, and responsive styling.
 
