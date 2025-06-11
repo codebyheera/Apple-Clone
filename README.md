@@ -56,10 +56,11 @@ git clone https://github.com/codebyheera/apple-landing-page.git
  ➡️ Navigate into the project directory <br>
  cd apple-landing-page
 <br>
+<br>
 🌐 Open the project in your browser <br>
 Simply open the index.html file in your browser.
 
 👤 Author — Muhammad Subhan Naeem <br>
 Built with ❤️ by Heera <br>
-🔗 github.com/codebyheera
+🔗 https://github.com/codebyheera
 
