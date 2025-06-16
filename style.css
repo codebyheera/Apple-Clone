@@ -794,7 +794,8 @@ li.no :hover {
   }
 
   .iphone img {
-    width: 300px;
+    /* width: 300px; */
+    width: 100%;
   }
 
   .main {
@@ -802,7 +803,8 @@ li.no :hover {
   }
 
   .awatch img {
-    width: 400px;
+    /* width: 400px; */
+    width: 100%;
     padding-top: 20px;
   }
 
