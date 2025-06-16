@@ -888,7 +888,7 @@ li.no :hover {
   }
 
   img {
-    width: 350px;
+    width: 100%;
   }
 
   img.crop {
@@ -906,6 +906,8 @@ li.no :hover {
 
   .section4 {
     height: 436px;
+    width: 73%;
+
   }
 
   .txt2 p {
@@ -916,11 +918,15 @@ li.no :hover {
   }
 
   img.promo {
-    width: 390px;
+    width: 100%;
+  }
+
+  .laptop :nth-child(3) {
+    font-size: 24px;
   }
 
   img.lap {
-    width: 350px;
+    width: 86%;
   }
 
   img.bottom {
@@ -930,20 +936,30 @@ li.no :hover {
   .section3 {
     height: 540px;
   }
-  .section5{
+
+  .section5 {
     height: 460px;
     padding-top: 0px;
     padding-bottom: 0px;
+            width: 88%;
+
   }
+
   .section5.color {
     height: 500px;
   }
+
   .section6 {
     height: 410px;
+    width: 87%;
+
   }
+
   .section7 {
     height: 460px;
+    width: 87%;
   }
+
   .txt1 p {
     line-height: 20px;
   }
