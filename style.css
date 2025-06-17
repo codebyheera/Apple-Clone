@@ -818,10 +818,14 @@ li.no :hover {
 
   .section2 {
     min-height: 416px;
+    display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
   }
 
   .laptop :nth-child(1) {
-    font-size: 43px;
+    font-size: 35px;
   }
 
   .divi {
@@ -907,7 +911,7 @@ li.no :hover {
 
   .section4 {
     height: 436px;
-            width: 84%;
+    width: 84%;
 
 
   }
@@ -943,7 +947,7 @@ li.no :hover {
     height: 460px;
     padding-top: 0px;
     padding-bottom: 0px;
-            width: 100%;
+    width: 100%;
 
   }
 
@@ -965,19 +969,24 @@ li.no :hover {
   .txt1 p {
     line-height: 20px;
   }
+
   .section6 :nth-child(1) {
     font-size: 32px;
   }
+
   .a9 {
     font-size: 32px;
   }
+
   .hero :nth-child(1) {
     font-size: 35px;
   }
+
   .hero :nth-child(2) {
     font-size: 20px;
   }
-  .text1>p{
+
+  .text1>p {
     font-size: 20px;
   }
 
