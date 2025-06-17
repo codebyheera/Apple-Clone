@@ -793,6 +793,10 @@ li.no :hover {
     display: none;
   }
 
+  span.a4 {
+    font-size: 19px;
+  }
+
   .iphone img {
     /* width: 300px; */
     width: 80%;
@@ -808,7 +812,7 @@ li.no :hover {
     padding-top: 20px;
   }
 
-  
+
 
   .watch :nth-child(3) {
     padding-top: 5px;
@@ -860,7 +864,11 @@ li.no :hover {
   }
 
   .fr {
-    padding-top: 0px;
+    padding-top: 20px;
+  }
+
+  .laptop :nth-child(2) {
+    font-size: 20px;
   }
 
   .nv {
@@ -935,7 +943,7 @@ li.no :hover {
   }
 
   .laptop :nth-child(3) {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   img.lap {
@@ -943,7 +951,7 @@ li.no :hover {
   }
 
   img.bottom {
-    width: 120px;
+    width: 100px;
   }
 
   .section3 {
@@ -955,6 +963,11 @@ li.no :hover {
     padding-top: 0px;
     padding-bottom: 0px;
     width: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 
   }
 
@@ -996,6 +1009,4 @@ li.no :hover {
   .text1>p {
     font-size: 20px;
   }
-
-
 }
