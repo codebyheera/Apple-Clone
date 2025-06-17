@@ -814,13 +814,14 @@ li.no :hover {
 
   .watch :nth-child(3) {
     padding-top: 5px;
+    font-size: 20px;
   }
 
   .section2 {
     min-height: 416px;
     display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+    flex-direction: column;
+    justify-content: space-between;
 
   }
 
@@ -904,10 +905,16 @@ li.no :hover {
     text-align: center;
     font-size: 20px;
   }
-.watch :nth-child(1) {
+
+  .watch :nth-child(1) {
     font-size: 35px;
-}
+  }
+
   span.ap3 {
+    font-size: 20px;
+  }
+
+  .watch :nth-child(2) {
     font-size: 20px;
   }
 
