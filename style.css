@@ -808,9 +808,7 @@ li.no :hover {
     padding-top: 20px;
   }
 
-  .fr {
-    padding-top: 13px;
-  }
+  
 
   .watch :nth-child(3) {
     padding-top: 5px;
@@ -853,9 +851,9 @@ li.no :hover {
     padding-top: 30px;
   }
 
-  .watch {
+  /* .watch {
     padding-top: 52px;
-  }
+  } */
 
   .lap {
     padding-top: 25px;
