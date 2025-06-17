@@ -1017,4 +1017,7 @@ li.no :hover {
   .text1>p {
     font-size: 20px;
   }
+  img#pro {
+    width: 100%;
+  }
 }
