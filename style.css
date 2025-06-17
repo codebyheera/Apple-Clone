@@ -938,7 +938,7 @@ li.no :hover {
 
   .section4 {
     height: 436px;
-    width: 84%;
+    width: 83%;
 
 
   }
@@ -975,7 +975,7 @@ li.no :hover {
     height: 460px;
     padding-top: 0px;
     padding-bottom: 0px;
-    width: 98%;
+    width: 100%;
     justify-content: space-between;
     display: flex;
     flex-direction: column;
