@@ -948,11 +948,8 @@ li.no :hover {
   .img.promo {
     width: 100%;
   }
-
-  img.pro {
-    width: 100%;
-  }
-
+ 
+  
   .laptop :nth-child(3) {
     font-size: 20px;
   }
