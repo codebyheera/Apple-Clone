@@ -829,6 +829,7 @@ li.no :hover {
     grid-template-columns: 1fr;
     padding: 0px;
     gap: 15px;
+    width: 100%;
   }
 
   .ld {
