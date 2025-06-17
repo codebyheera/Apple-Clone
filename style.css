@@ -795,7 +795,7 @@ li.no :hover {
 
   .iphone img {
     /* width: 300px; */
-    width: 100%;
+    width: 70%;
   }
 
   .main {
@@ -965,5 +965,19 @@ li.no :hover {
   .txt1 p {
     line-height: 20px;
   }
+  .section6 :nth-child(1) {
+    font-size: 32px;
+  }
+  .a9 {
+    font-size: 32px;
+  }
+  .hero :nth-child(1) {
+    font-size: 32px;
+  }
+  .hero :nth-child(2) {
+    font-size: 19px;
+  }
+
+
 
 }
