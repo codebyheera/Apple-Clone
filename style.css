@@ -977,7 +977,9 @@ li.no :hover {
   .hero :nth-child(2) {
     font-size: 20px;
   }
-
+  .text1>p{
+    font-size: 20px;
+  }
 
 
 }
